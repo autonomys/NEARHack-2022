@@ -1,9 +1,5 @@
 # near-nft-subspace-storage
 
-This [React] app was initialized with [create-near-app]
-
-TODO: desc
-
 # Quick Start
 
 To run this project locally:
